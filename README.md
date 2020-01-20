@@ -1,0 +1,2 @@
+# Cocos
+CocosCreator jsCode
