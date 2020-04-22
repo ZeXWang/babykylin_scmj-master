@@ -1,0 +1,139 @@
+2020-04-21T01:28:05.756Z - normal: Load ~/.CocosCreator/settings.json
+2020-04-21T01:28:05.813Z - normal: Initializing Asset Database
+2020-04-21T01:28:05.824Z - normal: checking language setting...
+2020-04-21T01:28:05.824Z - normal: Language: zh
+2020-04-21T01:28:06.542Z - success: preview server running at http://localhost:7456
+2020-04-21T01:28:06.545Z - success: protocol editor-framework registered
+2020-04-21T01:28:06.546Z - success: protocol app registered
+2020-04-21T01:28:06.546Z - success: protocol theme registered
+2020-04-21T01:28:06.546Z - success: protocol packages registered
+2020-04-21T01:28:06.546Z - success: protocol uuid registerred
+2020-04-21T01:28:06.546Z - success: protocol db registerred
+2020-04-21T01:28:06.546Z - success: protocol thumbnail registerred
+2020-04-21T01:28:06.546Z - success: protocol unpack registerred
+2020-04-21T01:28:06.546Z - success: protocol disable-commonjs registerred
+2020-04-21T01:28:06.730Z - normal: connected!
+2020-04-21T01:28:06.730Z - normal: Check project C:\CCSG\babykylin_scmj-master\client
+2020-04-21T01:28:06.732Z - normal: Initializing project C:\CCSG\babykylin_scmj-master\client
+2020-04-21T01:28:06.786Z - success: adapters loaded
+2020-04-21T01:28:06.799Z - success: asset-db-debugger loaded
+2020-04-21T01:28:06.911Z - success: fb-audience-network loaded
+2020-04-21T01:28:06.963Z - success: fb-live-stream loaded
+2020-04-21T01:28:06.982Z - success: google-play-instant loaded
+2020-04-21T01:28:07.012Z - success: huawei-runtime loaded
+2020-04-21T01:28:07.016Z - success: jkw-adapter loaded
+2020-04-21T01:28:07.022Z - success: jsb-adapter loaded
+2020-04-21T01:28:07.051Z - success: oppo-runtime loaded
+2020-04-21T01:28:07.064Z - success: package-manager loaded
+2020-04-21T01:28:07.082Z - success: runtime-dev-tools loaded
+2020-04-21T01:28:07.098Z - success: sdkbox loaded
+2020-04-21T01:28:07.111Z - success: ui-kit-preview-extra loaded
+2020-04-21T01:28:07.123Z - success: ui-kit-preview loaded
+2020-04-21T01:28:07.164Z - success: vivo-runtime loaded
+2020-04-21T01:28:07.166Z - success: alipay-minigame loaded
+2020-04-21T01:28:07.210Z - success: assets loaded
+2020-04-21T01:28:07.213Z - success: baidugame-opendata loaded
+2020-04-21T01:28:07.215Z - success: baidugame loaded
+2020-04-21T01:28:07.224Z - success: builder loaded
+2020-04-21T01:28:07.418Z - success: cocos-services loaded
+2020-04-21T01:28:07.421Z - success: console loaded
+2020-04-21T01:28:07.432Z - success: fb-instant-games loaded
+2020-04-21T01:28:07.436Z - success: game-window loaded
+2020-04-21T01:28:07.437Z - success: google-instant-games loaded
+2020-04-21T01:28:07.445Z - success: hierarchy loaded
+2020-04-21T01:28:07.447Z - success: inspector loaded
+2020-04-21T01:28:08.133Z - success: cpk-publish loaded
+2020-04-21T01:28:08.148Z - success: keystore loaded
+2020-04-21T01:28:08.160Z - success: node-library loaded
+2020-04-21T01:28:08.162Z - success: open-recent-items loaded
+2020-04-21T01:28:08.164Z - success: package-asset loaded
+2020-04-21T01:28:08.165Z - success: preferences loaded
+2020-04-21T01:28:08.166Z - success: project-exporter loaded
+2020-04-21T01:28:08.169Z - success: project-importer loaded
+2020-04-21T01:28:08.172Z - success: project-settings loaded
+2020-04-21T01:28:08.174Z - success: scene loaded
+2020-04-21T01:28:08.175Z - success: simulator-debugger loaded
+2020-04-21T01:28:08.176Z - success: sprite-editor loaded
+2020-04-21T01:28:08.178Z - success: store loaded
+2020-04-21T01:28:08.182Z - success: timeline loaded
+2020-04-21T01:28:08.185Z - success: wechatgame-opendata loaded
+2020-04-21T01:28:08.189Z - success: wechatgame loaded
+2020-04-21T01:28:08.192Z - success: xiaomi-runtime loaded
+2020-04-21T01:28:09.445Z - normal: Initializing Cocos2d
+2020-04-21T01:28:13.126Z - normal: Initializing engine extends
+2020-04-21T01:28:13.560Z - info: Cocos Service load base data!
+2020-04-21T01:28:20.462Z - normal: Loading packages
+2020-04-21T01:28:20.469Z - normal: Watching packages
+2020-04-21T01:28:21.065Z - normal: Run Application
+2020-04-21T02:14:00.771Z - warn: The Label referenced by component "Hall" is invalid. Detailed information:
+Node path: "Canvas"
+
+2020-04-21T02:15:02.043Z - warn: The Label referenced by component "Hall" is invalid. Detailed information:
+Node path: "Canvas"
+
+2020-04-21T02:20:05.338Z - warn: The Label referenced by component "Hall" is invalid. Detailed information:
+Node path: "Canvas"
+
+2020-04-21T08:16:18.712Z - warn: `cc.Node.skewX/Y` is deprecated since v2.2.1, please use 3D node instead. Node: Canvas/userinfo/userinfo_heading.
+2020-04-21T08:29:13.018Z - error: [db-task][sync-changes] Failed to delete asset C:\CCSG\babykylin_scmj-master\client\assets\resources\textures\hall\userinfo\图标-砖石.png
+    at u.o.error (C:\CocosCreator_2.2.1\resources\app.asar\asset-db\lib\utils.js:1:2095)
+    at C:\CocosCreator_2.2.1\resources\app.asar\asset-db\core\watch.js:1:397
+    at Object.l.clearImports (C:\CocosCreator_2.2.1\resources\app.asar\asset-db\lib\tasks.js:1:21008)
+    at d (C:\CocosCreator_2.2.1\resources\app.asar\asset-db\core\watch.js:1:353)
+    at C:\CocosCreator_2.2.1\resources\app.asar\node_modules\async\lib\async.js:181:20
+    at iterate (C:\CocosCreator_2.2.1\resources\app.asar\node_modules\async\lib\async.js:262:13)
+    at Object.async.forEachOfSeries.async.eachOfSeries (C:\CocosCreator_2.2.1\resources\app.asar\node_modules\async\lib\async.js:281:9)
+    at Object.async.forEachSeries.async.eachSeries (C:\CocosCreator_2.2.1\resources\app.asar\node_modules\async\lib\async.js:214:22)
+    at C:\CocosCreator_2.2.1\resources\app.asar\asset-db\core\watch.js:1:949
+2020-04-21T08:44:01.168Z - info: 只有预制节点 "userinfo" 及其子节点会被保存。
+2020-04-21T08:53:58.962Z - warn: The raw texture file of LabelAtlas 'C:\CCSG\babykylin_scmj-master\client\assets\LabelAtlas.labelatlas' is missing.
+2020-04-21T08:54:19.839Z - warn: The raw texture file of LabelAtlas 'C:\CCSG\babykylin_scmj-master\client\assets\LabelAtlas_diamondNumber.labelatlas' is missing.
+2020-04-21T08:57:24.049Z - warn: LabelAtlas 'C:\CCSG\babykylin_scmj-master\client\assets\LabelAtlas_diamondNumber.labelatlas' fnt data invalid, the item height must range from 1 - 22.
+2020-04-21T08:57:43.208Z - warn: LabelAtlas 'C:\CCSG\babykylin_scmj-master\client\assets\LabelAtlas_diamondNumber.labelatlas' fnt data invalid, the item width must range from 1 - 170.
+2020-04-21T08:58:13.862Z - warn: LabelAtlas 'C:\CCSG\babykylin_scmj-master\client\assets\LabelAtlas_diamondNumber.labelatlas' fnt data invalid, the item height must range from 1 - 22.
+2020-04-21T08:59:05.992Z - warn: LabelAtlas 'LabelAtlas_diamondNumber' cannot be loaded, fnt data does not exist.
+2020-04-21T08:59:06.007Z - error: TypeError: Cannot read property 'kerningDict' of null
+    at WebglBmfontAssembler._computeHorizontalKerningForText (C:\CocosCreator_2.2.1\resources\engine\bin\.cache\dev\cocos2d\core\renderer\utils\label\bmfont.js:209:54)
+    at WebglBmfontAssembler._updateContent (C:\CocosCreator_2.2.1\resources\engine\bin\.cache\dev\cocos2d\core\renderer\utils\label\bmfont.js:200:30)
+    at WebglBmfontAssembler.updateRenderData (C:\CocosCreator_2.2.1\resources\engine\bin\.cache\dev\cocos2d\core\renderer\utils\label\bmfont.js:128:30)
+    at onBMFontTextureLoaded (C:\CocosCreator_2.2.1\resources\engine\bin\.cache\dev\cocos2d\core\components\CCLabel.js:364:64)
+    at cc_Label._applyFontTexture (C:\CocosCreator_2.2.1\resources\engine\bin\.cache\dev\cocos2d\core\components\CCLabel.js:368:25)
+    at cc_Label.set (C:\CocosCreator_2.2.1\resources\engine\bin\.cache\dev\cocos2d\core\components\CCLabel.js:193:30)
+    at cc_Label.n.set [as font] (C:\CocosCreator_2.2.1\resources\app.asar\editor\page\scene-utils\lib\asset-watcher.js:1:975)
+    at C:\CocosCreator_2.2.1\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:682
+    at CCLoader.<anonymous> (C:\CocosCreator_2.2.1\resources\engine\bin\.cache\dev\cocos2d\core\platform\CCAssetLibrary.js:66:25)
+    at C:\CocosCreator_2.2.1\resources\engine\bin\.cache\dev\cocos2d\core\load-pipeline\CCLoader.js:141:46
+2020-04-21T09:28:56.652Z - failed: [db-task][create] Exception  Error: EEXIST: file already exists, mkdir 'C:\CCSG\babykylin_scmj-master\client\assets\resources\textures\hall\userinfo\num_9.png'
+    at mkdirSync (fs.js:778:3)
+    at Object.fs.mkdirSync (electron/js2c/asar.js:773:16)
+    at Object.mkdirsSync (C:\CocosCreator_2.2.1\resources\app.asar\node_modules\fire-fs\node_modules\fs-extra\lib\mkdirs\mkdirs-sync.js:29:9)
+    at u._ensureDirSync (C:\CocosCreator_2.2.1\resources\app.asar\asset-db\lib\internal.js:1:3715)
+    at u.l.create (C:\CocosCreator_2.2.1\resources\app.asar\asset-db\lib\tasks.js:1:18335)
+    at C:\CocosCreator_2.2.1\resources\app.asar\asset-db\index.js:1:2109
+    at C:\CocosCreator_2.2.1\resources\app.asar\node_modules\async\lib\async.js:987:13
+    at Immediate.process [as _onImmediate] (C:\CocosCreator_2.2.1\resources\app.asar\node_modules\async\lib\async.js:953:21)
+    at processImmediate (internal/timers.js:443:21)
+    at process.topLevelDomainCallback (domain.js:124:23)
+2020-04-21T09:28:56.653Z - error: Failed to create asset db://assets/resources/textures/hall/userinfo/num_9.png/LabelAtlas.labelatlas, messages: Error: EEXIST: file already exists, mkdir 'C:\CCSG\babykylin_scmj-master\client\assets\resources\textures\hall\userinfo\num_9.png'
+    at mkdirSync (fs.js:778:3)
+    at Object.fs.mkdirSync (electron/js2c/asar.js:773:16)
+    at Object.mkdirsSync (C:\CocosCreator_2.2.1\resources\app.asar\node_modules\fire-fs\node_modules\fs-extra\lib\mkdirs\mkdirs-sync.js:29:9)
+    at u._ensureDirSync (C:\CocosCreator_2.2.1\resources\app.asar\asset-db\lib\internal.js:1:3715)
+    at u.l.create (C:\CocosCreator_2.2.1\resources\app.asar\asset-db\lib\tasks.js:1:18335)
+    at C:\CocosCreator_2.2.1\resources\app.asar\asset-db\index.js:1:2109
+    at C:\CocosCreator_2.2.1\resources\app.asar\node_modules\async\lib\async.js:987:13
+    at Immediate.process [as _onImmediate] (C:\CocosCreator_2.2.1\resources\app.asar\node_modules\async\lib\async.js:953:21)
+    at processImmediate (internal/timers.js:443:21)
+    at process.topLevelDomainCallback (domain.js:124:23)
+    at u.o.error (C:\CocosCreator_2.2.1\resources\app.asar\asset-db\lib\utils.js:1:2118)
+    at Object.callback (C:\CocosCreator_2.2.1\resources\app.asar\asset-db\lib\interface.js:1:4794)
+    at C:\CocosCreator_2.2.1\resources\app.asar\node_modules\async\lib\async.js:906:35
+    at _arrayEach (C:\CocosCreator_2.2.1\resources\app.asar\node_modules\async\lib\async.js:85:13)
+    at C:\CocosCreator_2.2.1\resources\app.asar\node_modules\async\lib\async.js:898:17
+    at C:\CocosCreator_2.2.1\resources\app.asar\node_modules\async\lib\async.js:44:16
+    at C:\CocosCreator_2.2.1\resources\app.asar\asset-db\index.js:1:2192
+    at C:\CocosCreator_2.2.1\resources\app.asar\node_modules\async\lib\async.js:987:13
+    at Immediate.process [as _onImmediate] (C:\CocosCreator_2.2.1\resources\app.asar\node_modules\async\lib\async.js:953:21)
+2020-04-21T09:29:24.829Z - warn: The raw texture file of LabelAtlas 'C:\CCSG\babykylin_scmj-master\client\assets\resources\textures\hall\userinfo\LabelAtlas.labelatlas' is missing.
+2020-04-21T09:29:46.353Z - warn: The raw texture file of LabelAtlas 'C:\CCSG\babykylin_scmj-master\client\assets\resources\textures\hall\userinfo\LabelAtlas_phoneNumber.labelatlas' is missing.
+2020-04-21T12:20:25.210Z - info: shutdown preview server
