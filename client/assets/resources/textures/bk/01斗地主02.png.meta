@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "e8280ae6-3284-4e64-b292-f4207411cf74",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "01斗地主02": {
+      "ver": "1.0.4",
+      "uuid": "fe55672c-5a38-4cb9-97ac-358ff36b4078",
+      "rawTextureUuid": "e8280ae6-3284-4e64-b292-f4207411cf74",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1624,
+      "height": 750,
+      "rawWidth": 1624,
+      "rawHeight": 750,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

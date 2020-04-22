@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_friendRoom",
+    "texture": "57647fb6-4173-4e21-a992-cbfad228db01",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      228,
+      81
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      230,
+      82
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

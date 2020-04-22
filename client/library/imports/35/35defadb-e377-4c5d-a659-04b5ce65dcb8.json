@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "通用切换02",
+    "texture": "74c06eac-e635-4772-aeb6-6573fa3ebe17",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      220,
+      83
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      220,
+      84
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

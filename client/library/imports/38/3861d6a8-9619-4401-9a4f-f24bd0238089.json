@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_free_giftTickets",
+    "texture": "4fc965f5-56e6-4780-ac95-743c90c5eea3",
+    "atlas": "",
+    "rect": [
+      4,
+      4,
+      93,
+      88
+    ],
+    "offset": [
+      0.5,
+      -2
+    ],
+    "originalSize": [
+      100,
+      92
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

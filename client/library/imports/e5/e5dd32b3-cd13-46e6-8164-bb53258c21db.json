@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fnt_gemsAndYuanbao",
+    "texture": "18428a6b-19bf-4fb8-a8e7-a44c53b110d8",
+    "atlas": "",
+    "rect": [
+      6,
+      14,
+      202,
+      26
+    ],
+    "offset": [
+      2.5,
+      0
+    ],
+    "originalSize": [
+      209,
+      54
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

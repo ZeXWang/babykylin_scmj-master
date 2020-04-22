@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "01斗地主02",
+    "texture": "e8280ae6-3284-4e64-b292-f4207411cf74",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1624,
+      750
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1624,
+      750
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

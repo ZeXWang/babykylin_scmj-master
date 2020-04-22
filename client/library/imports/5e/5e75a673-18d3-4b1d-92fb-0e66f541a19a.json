@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_shiming",
+    "texture": "ede0aee1-867f-4ef9-bf27-bb8cb98a30b9",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      153,
+      41
+    ],
+    "offset": [
+      -0.5,
+      -0.5
+    ],
+    "originalSize": [
+      156,
+      42
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

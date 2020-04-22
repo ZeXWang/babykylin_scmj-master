@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "zimo_glow2",
+    "texture": "f273fe57-f086-4c03-bf25-d4e68cc567fe",
+    "atlas": "",
+    "rect": [
+      35,
+      0,
+      430,
+      246
+    ],
+    "offset": [
+      -6,
+      5
+    ],
+    "originalSize": [
+      512,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

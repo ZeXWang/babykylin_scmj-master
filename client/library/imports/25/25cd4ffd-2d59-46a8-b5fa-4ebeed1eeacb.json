@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bg_speaker",
+    "texture": "85712792-6d18-4b69-96d1-91b435255482",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      669,
+      32
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      670,
+      32
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

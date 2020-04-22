@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_unbinding",
+    "texture": "680a4b82-a03f-4c9e-bf57-b731340355e2",
+    "atlas": "",
+    "rect": [
+      1,
+      2,
+      119,
+      29
+    ],
+    "offset": [
+      -0.5,
+      -0.5
+    ],
+    "originalSize": [
+      122,
+      32
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

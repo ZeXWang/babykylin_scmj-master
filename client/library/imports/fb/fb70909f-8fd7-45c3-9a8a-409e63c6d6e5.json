@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "peng_glow2",
+    "texture": "47fbfae0-fa36-477f-877a-99af225cf9fb",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      256,
+      249
+    ],
+    "offset": [
+      0,
+      3.5
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

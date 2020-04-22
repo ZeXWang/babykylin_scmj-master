@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "powerG",
+    "texture": "0a030286-ff57-47a3-bd96-818af7154024",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      34,
+      17
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      34,
+      17
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

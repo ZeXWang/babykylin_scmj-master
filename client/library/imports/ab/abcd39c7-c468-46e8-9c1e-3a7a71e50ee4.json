@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_turnTable",
+    "texture": "6c0fd496-50fa-4bc2-98d6-639a8c3da4a8",
+    "atlas": "",
+    "rect": [
+      4,
+      0,
+      93,
+      91
+    ],
+    "offset": [
+      0.5,
+      0.5
+    ],
+    "originalSize": [
+      100,
+      92
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

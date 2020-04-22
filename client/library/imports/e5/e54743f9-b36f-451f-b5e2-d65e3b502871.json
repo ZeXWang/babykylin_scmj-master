@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_daily_benefits",
+    "texture": "0023e419-939f-4eba-ad87-d0e20a2460f1",
+    "atlas": "",
+    "rect": [
+      4,
+      1,
+      92,
+      91
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      100,
+      92
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

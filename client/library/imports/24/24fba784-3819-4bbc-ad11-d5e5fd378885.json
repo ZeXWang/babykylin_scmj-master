@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_winGiftTickets",
+    "texture": "5e6f4c33-8fa4-4e07-9db8-9669ecf4ea8c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      394,
+      222
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      394,
+      222
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

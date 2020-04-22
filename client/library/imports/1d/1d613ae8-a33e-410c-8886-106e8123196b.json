@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lbl_foreverFree",
+    "texture": "a8c47982-ea04-416a-8371-dda24235d79a",
+    "atlas": "",
+    "rect": [
+      0,
+      2,
+      145,
+      50
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      145,
+      52
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

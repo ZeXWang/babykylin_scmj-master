@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "rain3",
+    "texture": "0bc3e47f-8eef-4913-83cd-f1bea2e789a6",
+    "atlas": "",
+    "rect": [
+      20,
+      24,
+      172,
+      169
+    ],
+    "offset": [
+      1,
+      16.5
+    ],
+    "originalSize": [
+      210,
+      250
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

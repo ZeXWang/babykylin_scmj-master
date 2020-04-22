@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_redpoint",
+    "texture": "15a49ee2-3010-4263-a4f2-8610dafea967",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      22,
+      24
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      26,
+      26
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

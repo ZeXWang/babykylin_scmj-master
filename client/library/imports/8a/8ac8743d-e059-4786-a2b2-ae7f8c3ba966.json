@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sex_man",
+    "texture": "0bd2077b-c68c-49db-bd95-d05e2c2f787e",
+    "atlas": "",
+    "rect": [
+      1,
+      2,
+      51,
+      50
+    ],
+    "offset": [
+      0.5,
+      -1
+    ],
+    "originalSize": [
+      52,
+      52
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "creatroom11",
+    "texture": "235c04a8-e57f-4d4f-860c-7eaaed62a1ed",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      82,
+      39
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      82,
+      40
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

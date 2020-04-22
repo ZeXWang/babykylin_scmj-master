@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "guafeng5",
+    "texture": "99f8c790-c97a-4173-b22c-536b6f728cc3",
+    "atlas": "",
+    "rect": [
+      12,
+      15,
+      206,
+      104
+    ],
+    "offset": [
+      0,
+      -2
+    ],
+    "originalSize": [
+      230,
+      130
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

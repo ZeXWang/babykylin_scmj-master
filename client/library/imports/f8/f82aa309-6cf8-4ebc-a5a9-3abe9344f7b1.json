@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_shuffle_free",
+    "texture": "99d0b38c-7faf-4585-b352-0eec44963e7a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      394,
+      222
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      394,
+      222
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

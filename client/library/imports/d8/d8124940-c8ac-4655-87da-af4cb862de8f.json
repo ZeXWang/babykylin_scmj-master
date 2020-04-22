@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "youqingTip",
+    "texture": "2c9b7b23-1d41-4a46-bb3d-59f276d1d239",
+    "atlas": "",
+    "rect": [
+      2,
+      3,
+      398,
+      913
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      402,
+      918
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

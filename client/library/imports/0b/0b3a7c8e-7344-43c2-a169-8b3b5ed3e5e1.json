@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_yuanBao",
+    "texture": "73e8278a-ba9f-491b-9123-ad9cf2c3a62b",
+    "atlas": "",
+    "rect": [
+      1,
+      3,
+      60,
+      44
+    ],
+    "offset": [
+      0,
+      2
+    ],
+    "originalSize": [
+      62,
+      54
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

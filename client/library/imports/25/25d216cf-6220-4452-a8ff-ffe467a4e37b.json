@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_coin_bbb",
+    "texture": "09e5e5ae-71d1-4f29-b31d-84c464b198db",
+    "atlas": "",
+    "rect": [
+      1,
+      2,
+      47,
+      47
+    ],
+    "offset": [
+      -0.5,
+      1.5
+    ],
+    "originalSize": [
+      50,
+      54
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

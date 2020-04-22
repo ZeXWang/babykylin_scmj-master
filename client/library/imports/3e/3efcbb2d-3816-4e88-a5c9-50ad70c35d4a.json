@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "title_phoneBinding",
+    "texture": "160be25d-3155-4c06-8009-afc11556b04d",
+    "atlas": "",
+    "rect": [
+      1,
+      2,
+      173,
+      44
+    ],
+    "offset": [
+      -0.5,
+      -1
+    ],
+    "originalSize": [
+      176,
+      46
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

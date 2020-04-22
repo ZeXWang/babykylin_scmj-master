@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gang_glow2",
+    "texture": "60d88d29-5aa4-436b-bbb0-a58bdf178633",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      256,
+      234
+    ],
+    "offset": [
+      0,
+      11
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
